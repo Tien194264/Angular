@@ -1,0 +1,11 @@
+.ul-menu {
+  font-size: 25px;
+  font-weight: bold;
+  color: aqua;
+  align-items: center;
+}
+.li-menu {
+  list-style: none;
+  margin: 10px;
+  color: red;
+}
